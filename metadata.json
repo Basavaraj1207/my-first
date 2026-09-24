@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard",
+  "description": "AI-Based Phishing Website Detection and Risk Analysis System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
